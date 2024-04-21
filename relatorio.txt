@@ -1,0 +1,7 @@
+O projeto está desenvolvido em Java e tem como objetivo permitir ao usuário inserir um vetor de números inteiros de tamanho N e, 
+em seguida, abrir um menu de escolha entre três métodos de ordenação diferentes: ordenação por inserção, ordenação por seleção e
+ordenação bolha.  Os três métodos de ordenação (inserção, seleção e bolha) são implementados na classe Ordenacao, cada um em sua
+função separada. Após o usuário selecionar qual método de ordenação deseja, o programa exibe o resultado dos elementos do vetor
+organizado.
+
+Made by: Aline Hana Shinkawa
